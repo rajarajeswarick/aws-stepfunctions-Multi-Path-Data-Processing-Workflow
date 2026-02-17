@@ -8,8 +8,7 @@ Architecture Flow
 Start
 Choice State → Choose execution path
 
-Path A:  
-Call external HTTPS API
+Path A: Call external HTTPS API
 Analyze document with Textract
 
 Path B:
